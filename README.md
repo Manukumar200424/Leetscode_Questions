@@ -37,6 +37,7 @@
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Manukumar200424/Database/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Manukumar200424/Database/tree/master/0189-rotate-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Manukumar200424/Database/tree/master/1015-smallest-integer-divisible-by-k) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Manukumar200424/Database/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -82,5 +83,6 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Manukumar200424/Database/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Manukumar200424/Database/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/Manukumar200424/Database/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
