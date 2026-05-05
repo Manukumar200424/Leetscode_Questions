@@ -115,6 +115,7 @@
 | [0015-3sum](https://github.com/Manukumar200424/Database/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Manukumar200424/Database/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Manukumar200424/Database/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Manukumar200424/Database/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Manukumar200424/Database/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Manukumar200424/Database/tree/master/0189-rotate-array) |
 | [0876-middle-of-the-linked-list](https://github.com/Manukumar200424/Database/tree/master/0876-middle-of-the-linked-list) |
@@ -130,6 +131,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Manukumar200424/Database/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Manukumar200424/Database/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Manukumar200424/Database/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Manukumar200424/Database/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Manukumar200424/Database/tree/master/0876-middle-of-the-linked-list) |
