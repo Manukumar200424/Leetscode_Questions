@@ -13,6 +13,7 @@
 | [0018-4sum](https://github.com/Manukumar200424/Database/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/Manukumar200424/Database/tree/master/0035-search-insert-position) |
 | [0189-rotate-array](https://github.com/Manukumar200424/Database/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/Manukumar200424/Database/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/Manukumar200424/Database/tree/master/0239-sliding-window-maximum) |
 | [0503-next-greater-element-ii](https://github.com/Manukumar200424/Database/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/Manukumar200424/Database/tree/master/0704-binary-search) |
@@ -84,6 +85,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Manukumar200424/Database/tree/master/0200-number-of-islands) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Manukumar200424/Database/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Manukumar200424/Database/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Manukumar200424/Database/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -94,17 +96,20 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Manukumar200424/Database/tree/master/0200-number-of-islands) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Manukumar200424/Database/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Manukumar200424/Database/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Manukumar200424/Database/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Manukumar200424/Database/tree/master/0200-number-of-islands) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Manukumar200424/Database/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Manukumar200424/Database/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Manukumar200424/Database/tree/master/0200-number-of-islands) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Manukumar200424/Database/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Manukumar200424/Database/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Two Pointers
