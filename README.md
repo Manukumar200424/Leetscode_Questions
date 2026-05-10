@@ -16,6 +16,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Manukumar200424/Database/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Manukumar200424/Database/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Manukumar200424/Database/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/Manukumar200424/Database/tree/master/0036-valid-sudoku) |
 | [0189-rotate-array](https://github.com/Manukumar200424/Database/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Manukumar200424/Database/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/Manukumar200424/Database/tree/master/0239-sliding-window-maximum) |
@@ -58,6 +59,7 @@
 | [0012-integer-to-roman](https://github.com/Manukumar200424/Database/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Manukumar200424/Database/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Manukumar200424/Database/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/Manukumar200424/Database/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/Manukumar200424/Database/tree/master/0141-linked-list-cycle) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Manukumar200424/Database/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/Manukumar200424/Database/tree/master/1590-make-sum-divisible-by-p) |
@@ -93,6 +95,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Manukumar200424/Database/tree/master/0036-valid-sudoku) |
 | [0200-number-of-islands](https://github.com/Manukumar200424/Database/tree/master/0200-number-of-islands) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Manukumar200424/Database/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Manukumar200424/Database/tree/master/1559-detect-cycles-in-2d-grid) |
