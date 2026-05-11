@@ -21,6 +21,7 @@
 | [0039-combination-sum](https://github.com/Manukumar200424/Database/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/Manukumar200424/Database/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Manukumar200424/Database/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Manukumar200424/Database/tree/master/0045-jump-game-ii) |
 | [0189-rotate-array](https://github.com/Manukumar200424/Database/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Manukumar200424/Database/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/Manukumar200424/Database/tree/master/0239-sliding-window-maximum) |
@@ -103,6 +104,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Manukumar200424/Database/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Manukumar200424/Database/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Manukumar200424/Database/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/Manukumar200424/Database/tree/master/0045-jump-game-ii) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Manukumar200424/Database/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Matrix
 |  |
@@ -213,6 +215,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Manukumar200424/Database/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/Manukumar200424/Database/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/Manukumar200424/Database/tree/master/0045-jump-game-ii) |
 ## Design
 |  |
 | ------- |
