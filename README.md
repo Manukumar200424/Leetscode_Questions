@@ -62,6 +62,7 @@
 | [0043-multiply-strings](https://github.com/Manukumar200424/Database/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/Manukumar200424/Database/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Manukumar200424/Database/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/Manukumar200424/Database/tree/master/0058-length-of-last-word) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Manukumar200424/Database/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2833-furthest-point-from-origin](https://github.com/Manukumar200424/Database/tree/master/2833-furthest-point-from-origin) |
 ## Trie
