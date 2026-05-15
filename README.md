@@ -105,6 +105,7 @@
 | [0048-rotate-image](https://github.com/Manukumar200424/Database/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Manukumar200424/Database/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Manukumar200424/Database/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/Manukumar200424/Database/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Manukumar200424/Database/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Manukumar200424/Database/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/Manukumar200424/Database/tree/master/0367-valid-perfect-square) |
@@ -124,6 +125,7 @@
 | [0045-jump-game-ii](https://github.com/Manukumar200424/Database/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Manukumar200424/Database/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Manukumar200424/Database/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Manukumar200424/Database/tree/master/0062-unique-paths) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Manukumar200424/Database/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Matrix
 |  |
@@ -297,4 +299,8 @@
 | [0043-multiply-strings](https://github.com/Manukumar200424/Database/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Manukumar200424/Database/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Manukumar200424/Database/tree/master/0059-spiral-matrix-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Manukumar200424/Database/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
