@@ -34,6 +34,7 @@
 | [0063-unique-paths-ii](https://github.com/Manukumar200424/Database/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Manukumar200424/Database/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Manukumar200424/Database/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/Manukumar200424/Database/tree/master/0068-text-justification) |
 | [0189-rotate-array](https://github.com/Manukumar200424/Database/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Manukumar200424/Database/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/Manukumar200424/Database/tree/master/0239-sliding-window-maximum) |
@@ -69,6 +70,7 @@
 | [0058-length-of-last-word](https://github.com/Manukumar200424/Database/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/Manukumar200424/Database/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Manukumar200424/Database/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/Manukumar200424/Database/tree/master/0068-text-justification) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Manukumar200424/Database/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2833-furthest-point-from-origin](https://github.com/Manukumar200424/Database/tree/master/2833-furthest-point-from-origin) |
 ## Trie
@@ -312,6 +314,7 @@
 | [0054-spiral-matrix](https://github.com/Manukumar200424/Database/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Manukumar200424/Database/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Manukumar200424/Database/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/Manukumar200424/Database/tree/master/0068-text-justification) |
 ## Combinatorics
 |  |
 | ------- |
