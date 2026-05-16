@@ -116,6 +116,7 @@
 | [0066-plus-one](https://github.com/Manukumar200424/Database/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Manukumar200424/Database/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Manukumar200424/Database/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Manukumar200424/Database/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Manukumar200424/Database/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/Manukumar200424/Database/tree/master/0367-valid-perfect-square) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Manukumar200424/Database/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -137,6 +138,7 @@
 | [0062-unique-paths](https://github.com/Manukumar200424/Database/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Manukumar200424/Database/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Manukumar200424/Database/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/Manukumar200424/Database/tree/master/0070-climbing-stairs) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Manukumar200424/Database/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Matrix
 |  |
@@ -319,4 +321,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Manukumar200424/Database/tree/master/0062-unique-paths) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Manukumar200424/Database/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
