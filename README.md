@@ -35,6 +35,7 @@
 | [0064-minimum-path-sum](https://github.com/Manukumar200424/Database/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Manukumar200424/Database/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/Manukumar200424/Database/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/Manukumar200424/Database/tree/master/0073-set-matrix-zeroes) |
 | [0189-rotate-array](https://github.com/Manukumar200424/Database/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Manukumar200424/Database/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/Manukumar200424/Database/tree/master/0239-sliding-window-maximum) |
@@ -93,6 +94,7 @@
 | [0037-sudoku-solver](https://github.com/Manukumar200424/Database/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Manukumar200424/Database/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Manukumar200424/Database/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Manukumar200424/Database/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Manukumar200424/Database/tree/master/0141-linked-list-cycle) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Manukumar200424/Database/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/Manukumar200424/Database/tree/master/1590-make-sum-divisible-by-p) |
@@ -153,6 +155,7 @@
 | [0059-spiral-matrix-ii](https://github.com/Manukumar200424/Database/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Manukumar200424/Database/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Manukumar200424/Database/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Manukumar200424/Database/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/Manukumar200424/Database/tree/master/0200-number-of-islands) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Manukumar200424/Database/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Manukumar200424/Database/tree/master/1559-detect-cycles-in-2d-grid) |
