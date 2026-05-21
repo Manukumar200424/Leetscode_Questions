@@ -40,6 +40,7 @@
 | [0075-sort-colors](https://github.com/Manukumar200424/Database/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Manukumar200424/Database/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Manukumar200424/Database/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/Manukumar200424/Database/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Manukumar200424/Database/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Manukumar200424/Database/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/Manukumar200424/Database/tree/master/0239-sliding-window-maximum) |
@@ -208,6 +209,7 @@
 | [0061-rotate-list](https://github.com/Manukumar200424/Database/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Manukumar200424/Database/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/Manukumar200424/Database/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/Manukumar200424/Database/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Manukumar200424/Database/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Manukumar200424/Database/tree/master/0189-rotate-array) |
 | [0876-middle-of-the-linked-list](https://github.com/Manukumar200424/Database/tree/master/0876-middle-of-the-linked-list) |
@@ -315,6 +317,7 @@
 | [0049-group-anagrams](https://github.com/Manukumar200424/Database/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Manukumar200424/Database/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Manukumar200424/Database/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Manukumar200424/Database/tree/master/0088-merge-sorted-array) |
 ## Backtracking
 |  |
 | ------- |
