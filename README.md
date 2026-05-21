@@ -39,6 +39,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Manukumar200424/Database/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Manukumar200424/Database/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Manukumar200424/Database/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Manukumar200424/Database/tree/master/0085-maximal-rectangle) |
 | [0189-rotate-array](https://github.com/Manukumar200424/Database/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Manukumar200424/Database/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/Manukumar200424/Database/tree/master/0239-sliding-window-maximum) |
@@ -149,6 +150,7 @@
 | [0064-minimum-path-sum](https://github.com/Manukumar200424/Database/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Manukumar200424/Database/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Manukumar200424/Database/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/Manukumar200424/Database/tree/master/0085-maximal-rectangle) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Manukumar200424/Database/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Matrix
 |  |
@@ -162,6 +164,7 @@
 | [0064-minimum-path-sum](https://github.com/Manukumar200424/Database/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Manukumar200424/Database/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Manukumar200424/Database/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/Manukumar200424/Database/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Manukumar200424/Database/tree/master/0200-number-of-islands) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Manukumar200424/Database/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Manukumar200424/Database/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -251,6 +254,7 @@
 | [0042-trapping-rain-water](https://github.com/Manukumar200424/Database/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Manukumar200424/Database/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Manukumar200424/Database/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Manukumar200424/Database/tree/master/0085-maximal-rectangle) |
 | [0225-implement-stack-using-queues](https://github.com/Manukumar200424/Database/tree/master/0225-implement-stack-using-queues) |
 | [0503-next-greater-element-ii](https://github.com/Manukumar200424/Database/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Manukumar200424/Database/tree/master/0739-daily-temperatures) |
@@ -259,6 +263,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Manukumar200424/Database/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Manukumar200424/Database/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Manukumar200424/Database/tree/master/0085-maximal-rectangle) |
 | [0503-next-greater-element-ii](https://github.com/Manukumar200424/Database/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Manukumar200424/Database/tree/master/0739-daily-temperatures) |
 ## Sliding Window
