@@ -128,6 +128,7 @@
 | [0067-add-binary](https://github.com/Manukumar200424/Database/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Manukumar200424/Database/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Manukumar200424/Database/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/Manukumar200424/Database/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/Manukumar200424/Database/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/Manukumar200424/Database/tree/master/0367-valid-perfect-square) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Manukumar200424/Database/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -327,6 +328,7 @@
 | [0046-permutations](https://github.com/Manukumar200424/Database/tree/master/0046-permutations) |
 | [0052-n-queens-ii](https://github.com/Manukumar200424/Database/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Manukumar200424/Database/tree/master/0077-combinations) |
+| [0089-gray-code](https://github.com/Manukumar200424/Database/tree/master/0089-gray-code) |
 ## Merge Sort
 |  |
 | ------- |
@@ -340,6 +342,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/Manukumar200424/Database/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Manukumar200424/Database/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/Manukumar200424/Database/tree/master/0089-gray-code) |
 ## Simulation
 |  |
 | ------- |
