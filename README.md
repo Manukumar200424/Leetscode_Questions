@@ -157,6 +157,7 @@
 | [0072-edit-distance](https://github.com/Manukumar200424/Database/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Manukumar200424/Database/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/Manukumar200424/Database/tree/master/0091-decode-ways) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Manukumar200424/Database/tree/master/0095-unique-binary-search-trees-ii) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Manukumar200424/Database/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Matrix
 |  |
@@ -179,6 +180,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Manukumar200424/Database/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Manukumar200424/Database/tree/master/0095-unique-binary-search-trees-ii) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Manukumar200424/Database/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Depth-First Search
 |  |
@@ -339,6 +341,7 @@
 | [0089-gray-code](https://github.com/Manukumar200424/Database/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Manukumar200424/Database/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/Manukumar200424/Database/tree/master/0093-restore-ip-addresses) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Manukumar200424/Database/tree/master/0095-unique-binary-search-trees-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -374,4 +377,9 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Manukumar200424/Database/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Manukumar200424/Database/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Manukumar200424/Database/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
