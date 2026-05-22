@@ -41,6 +41,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/Manukumar200424/Database/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Manukumar200424/Database/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Manukumar200424/Database/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/Manukumar200424/Database/tree/master/0090-subsets-ii) |
 | [0189-rotate-array](https://github.com/Manukumar200424/Database/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Manukumar200424/Database/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/Manukumar200424/Database/tree/master/0239-sliding-window-maximum) |
@@ -329,6 +330,7 @@
 | [0052-n-queens-ii](https://github.com/Manukumar200424/Database/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Manukumar200424/Database/tree/master/0077-combinations) |
 | [0089-gray-code](https://github.com/Manukumar200424/Database/tree/master/0089-gray-code) |
+| [0090-subsets-ii](https://github.com/Manukumar200424/Database/tree/master/0090-subsets-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -343,6 +345,7 @@
 | [0029-divide-two-integers](https://github.com/Manukumar200424/Database/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Manukumar200424/Database/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/Manukumar200424/Database/tree/master/0089-gray-code) |
+| [0090-subsets-ii](https://github.com/Manukumar200424/Database/tree/master/0090-subsets-ii) |
 ## Simulation
 |  |
 | ------- |
