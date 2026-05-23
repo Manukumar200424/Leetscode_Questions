@@ -132,6 +132,7 @@
 | [0069-sqrtx](https://github.com/Manukumar200424/Database/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Manukumar200424/Database/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Manukumar200424/Database/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/Manukumar200424/Database/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/Manukumar200424/Database/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/Manukumar200424/Database/tree/master/0367-valid-perfect-square) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Manukumar200424/Database/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -158,6 +159,7 @@
 | [0085-maximal-rectangle](https://github.com/Manukumar200424/Database/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/Manukumar200424/Database/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Manukumar200424/Database/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Manukumar200424/Database/tree/master/0096-unique-binary-search-trees) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Manukumar200424/Database/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Matrix
 |  |
@@ -181,6 +183,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Manukumar200424/Database/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Manukumar200424/Database/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Manukumar200424/Database/tree/master/0096-unique-binary-search-trees) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Manukumar200424/Database/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Depth-First Search
 |  |
@@ -378,8 +381,10 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Manukumar200424/Database/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Manukumar200424/Database/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Manukumar200424/Database/tree/master/0096-unique-binary-search-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Manukumar200424/Database/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Manukumar200424/Database/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
