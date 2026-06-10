@@ -94,6 +94,7 @@
 | [0097-interleaving-string](https://github.com/Manukumar200424/Database/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Manukumar200424/Database/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Manukumar200424/Database/tree/master/0125-valid-palindrome) |
+| [0126-word-ladder-ii](https://github.com/Manukumar200424/Database/tree/master/0126-word-ladder-ii) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Manukumar200424/Database/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2833-furthest-point-from-origin](https://github.com/Manukumar200424/Database/tree/master/2833-furthest-point-from-origin) |
 ## Trie
@@ -118,6 +119,7 @@
 | [0076-minimum-window-substring](https://github.com/Manukumar200424/Database/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Manukumar200424/Database/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Manukumar200424/Database/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0126-word-ladder-ii](https://github.com/Manukumar200424/Database/tree/master/0126-word-ladder-ii) |
 | [0141-linked-list-cycle](https://github.com/Manukumar200424/Database/tree/master/0141-linked-list-cycle) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Manukumar200424/Database/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/Manukumar200424/Database/tree/master/1590-make-sum-divisible-by-p) |
@@ -257,6 +259,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/Manukumar200424/Database/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Manukumar200424/Database/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Manukumar200424/Database/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0126-word-ladder-ii](https://github.com/Manukumar200424/Database/tree/master/0126-word-ladder-ii) |
 | [0200-number-of-islands](https://github.com/Manukumar200424/Database/tree/master/0200-number-of-islands) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Manukumar200424/Database/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Manukumar200424/Database/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -418,6 +421,7 @@
 | [0093-restore-ip-addresses](https://github.com/Manukumar200424/Database/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Manukumar200424/Database/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/Manukumar200424/Database/tree/master/0113-path-sum-ii) |
+| [0126-word-ladder-ii](https://github.com/Manukumar200424/Database/tree/master/0126-word-ladder-ii) |
 ## Merge Sort
 |  |
 | ------- |
