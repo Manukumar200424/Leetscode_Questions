@@ -69,6 +69,7 @@
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Manukumar200424/Database/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Manukumar200424/Database/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2615-sum-of-distances](https://github.com/Manukumar200424/Database/tree/master/2615-sum-of-distances) |
+| [3327-check-if-dfs-strings-are-palindromes](https://github.com/Manukumar200424/Database/tree/master/3327-check-if-dfs-strings-are-palindromes) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Manukumar200424/Database/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3620-network-recovery-pathways](https://github.com/Manukumar200424/Database/tree/master/3620-network-recovery-pathways) |
 ## String
@@ -107,6 +108,7 @@
 | [0132-palindrome-partitioning-ii](https://github.com/Manukumar200424/Database/tree/master/0132-palindrome-partitioning-ii) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Manukumar200424/Database/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2833-furthest-point-from-origin](https://github.com/Manukumar200424/Database/tree/master/2833-furthest-point-from-origin) |
+| [3327-check-if-dfs-strings-are-palindromes](https://github.com/Manukumar200424/Database/tree/master/3327-check-if-dfs-strings-are-palindromes) |
 ## Trie
 |  |
 | ------- |
@@ -137,6 +139,7 @@
 | [1015-smallest-integer-divisible-by-k](https://github.com/Manukumar200424/Database/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/Manukumar200424/Database/tree/master/1590-make-sum-divisible-by-p) |
 | [2615-sum-of-distances](https://github.com/Manukumar200424/Database/tree/master/2615-sum-of-distances) |
+| [3327-check-if-dfs-strings-are-palindromes](https://github.com/Manukumar200424/Database/tree/master/3327-check-if-dfs-strings-are-palindromes) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -246,6 +249,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Manukumar200424/Database/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Manukumar200424/Database/tree/master/0129-sum-root-to-leaf-numbers) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Manukumar200424/Database/tree/master/2872-maximum-number-of-k-divisible-components) |
+| [3327-check-if-dfs-strings-are-palindromes](https://github.com/Manukumar200424/Database/tree/master/3327-check-if-dfs-strings-are-palindromes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -269,6 +273,7 @@
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Manukumar200424/Database/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Manukumar200424/Database/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Manukumar200424/Database/tree/master/2872-maximum-number-of-k-divisible-components) |
+| [3327-check-if-dfs-strings-are-palindromes](https://github.com/Manukumar200424/Database/tree/master/3327-check-if-dfs-strings-are-palindromes) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -544,4 +549,8 @@
 |  |
 | ------- |
 | [1620-coordinate-with-maximum-network-quality](https://github.com/Manukumar200424/Database/tree/master/1620-coordinate-with-maximum-network-quality) |
+## Hash Function
+|  |
+| ------- |
+| [3327-check-if-dfs-strings-are-palindromes](https://github.com/Manukumar200424/Database/tree/master/3327-check-if-dfs-strings-are-palindromes) |
 <!---LeetCode Topics End-->
