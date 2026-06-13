@@ -137,6 +137,7 @@
 | [0141-linked-list-cycle](https://github.com/Manukumar200424/Database/tree/master/0141-linked-list-cycle) |
 | [0149-max-points-on-a-line](https://github.com/Manukumar200424/Database/tree/master/0149-max-points-on-a-line) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Manukumar200424/Database/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1172-dinner-plate-stacks](https://github.com/Manukumar200424/Database/tree/master/1172-dinner-plate-stacks) |
 | [1590-make-sum-divisible-by-p](https://github.com/Manukumar200424/Database/tree/master/1590-make-sum-divisible-by-p) |
 | [2615-sum-of-distances](https://github.com/Manukumar200424/Database/tree/master/2615-sum-of-distances) |
 | [3327-check-if-dfs-strings-are-palindromes](https://github.com/Manukumar200424/Database/tree/master/3327-check-if-dfs-strings-are-palindromes) |
@@ -380,6 +381,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Manukumar200424/Database/tree/master/0225-implement-stack-using-queues) |
 | [0503-next-greater-element-ii](https://github.com/Manukumar200424/Database/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Manukumar200424/Database/tree/master/0739-daily-temperatures) |
+| [1172-dinner-plate-stacks](https://github.com/Manukumar200424/Database/tree/master/1172-dinner-plate-stacks) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -418,6 +420,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Manukumar200424/Database/tree/master/0225-implement-stack-using-queues) |
+| [1172-dinner-plate-stacks](https://github.com/Manukumar200424/Database/tree/master/1172-dinner-plate-stacks) |
 ## Queue
 |  |
 | ------- |
@@ -428,6 +431,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Manukumar200424/Database/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/Manukumar200424/Database/tree/master/0239-sliding-window-maximum) |
+| [1172-dinner-plate-stacks](https://github.com/Manukumar200424/Database/tree/master/1172-dinner-plate-stacks) |
 | [3620-network-recovery-pathways](https://github.com/Manukumar200424/Database/tree/master/3620-network-recovery-pathways) |
 ## Monotonic Queue
 |  |
