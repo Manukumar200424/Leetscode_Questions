@@ -560,5 +560,6 @@
 ## Database
 |  |
 | ------- |
+| [0178-rank-scores](https://github.com/Manukumar200424/Database/tree/master/0178-rank-scores) |
 | [0608-tree-node](https://github.com/Manukumar200424/Database/tree/master/0608-tree-node) |
 <!---LeetCode Topics End-->
