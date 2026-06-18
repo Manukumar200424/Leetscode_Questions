@@ -59,6 +59,7 @@
 | [0189-rotate-array](https://github.com/Manukumar200424/Database/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Manukumar200424/Database/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/Manukumar200424/Database/tree/master/0239-sliding-window-maximum) |
+| [0284-peeking-iterator](https://github.com/Manukumar200424/Database/tree/master/0284-peeking-iterator) |
 | [0503-next-greater-element-ii](https://github.com/Manukumar200424/Database/tree/master/0503-next-greater-element-ii) |
 | [0621-task-scheduler](https://github.com/Manukumar200424/Database/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/Manukumar200424/Database/tree/master/0704-binary-search) |
@@ -426,6 +427,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Manukumar200424/Database/tree/master/0225-implement-stack-using-queues) |
+| [0284-peeking-iterator](https://github.com/Manukumar200424/Database/tree/master/0284-peeking-iterator) |
 | [1172-dinner-plate-stacks](https://github.com/Manukumar200424/Database/tree/master/1172-dinner-plate-stacks) |
 ## Queue
 |  |
@@ -573,4 +575,8 @@
 | [0182-duplicate-emails](https://github.com/Manukumar200424/Database/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/Manukumar200424/Database/tree/master/0183-customers-who-never-order) |
 | [0608-tree-node](https://github.com/Manukumar200424/Database/tree/master/0608-tree-node) |
+## Iterator
+|  |
+| ------- |
+| [0284-peeking-iterator](https://github.com/Manukumar200424/Database/tree/master/0284-peeking-iterator) |
 <!---LeetCode Topics End-->
